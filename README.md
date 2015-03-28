@@ -28,7 +28,7 @@ Last Element: (row:999,col:999)
 Last Row: (row:999)
 
 * SDA Get Last Row: 2.0265579223632e-06
-* A2D Get Last Row: 0.00067870020866394 {300x slower}
+* A2D Get Last Row: 0.00067870020866394 {330x slower}
 
 Last Col: (col:999)
 
